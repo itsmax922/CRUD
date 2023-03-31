@@ -1,0 +1,61 @@
+Prompt
+
+
+Create OrderItem class with one parameter int quantity with lombok getter and setters
+
+
+
+create OrderIteamRepository with getQuantity method with hashmap static variable
+
+
+
+create class Order with parameter orderId and orderDate with lombok 
+
+
+
+create OrderRepository with getOrder method with hashmap static variable
+
+
+
+create class Customer with parameter customerId and customerName with lombok 
+
+
+create CustomerRepository with getCustomer method with hashmap static variable
+
+
+
+create ProductsRepository with getUnitPrice method with hashmap static variable
+
+
+now create CustomerService class with insert, update and delete operations
+
+ 
+
+now create CustomerController class with insert, update and delete mappings and autowire CustomerService
+
+
+now create CustomerController class with insert, update and delete mappings and autowire CustomerService with response entity
+
+Help me create exception class called ResourseNotFoundException 
+
+
+create ErrorDetails class with parameters Date timestamp, string message and string details
+
+Help me create exception class called ResourseNotFoundException create ErrorDetails class with parameters Date timestamp, string message and string details
+
+
+
+create orderItemController with insert, update and delete operations with respect to OrderItem class with parameter int quantity
+
+create class Products with parameter productId and unitPrice with lombok.
+
+
+create ProductController with annotations and insert, update and delete operations
+
+
+create ProductService class with insert, update and delete operations
+
+create product class with parameter int productId and int unitPrice
+
+
+create orderItemController with insert, update and delete operations with respect to OrderItem class with parameter int quantity
